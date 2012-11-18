@@ -25,7 +25,7 @@ else
     end
 end
 
-if BUILD_HTMLDOC
+if false
 
     puts "\npost-install.rb: installing documentation..."
 
